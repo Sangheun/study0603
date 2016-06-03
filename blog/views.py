@@ -26,3 +26,6 @@ def comment_new(request, post_pk):
         'form': form,
         })
 
+
+
+
